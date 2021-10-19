@@ -1,3 +1,3 @@
 # java-spring-jwt
 
-Utilización de Jason Web Token en un back creado con Java Spring
+Utilización de Json Web Token en un back-end creado con Java Spring
